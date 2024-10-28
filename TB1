@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UTS</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="profile-section">
+            <div class="profile-image">
+                <img src="Unknown.jpeg" alt="Foto Profil">
+            </div>
+            <div class="profile-info">
+                <h1>bivan syaban rafael</h1>
+                <p>Student Number : 41823010013</p>
+                <p>Major : Information Systems</p>
+                <p>"Welcome to 3rd Semester : Information Systems is a key course that connects technology with business, teaching us how to manage data to improve decision-making and streamline operations. It equips students with skills to design and manage systems that support modern organizational needs.."</p>
+            </div>
+        </div>
+
+        <div class="schedule-section">
+            <h2>Class Schedule</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Course Code </th>
+                        <th>Course</th>
+                        <th>Schedule</th>
+                        <th>Room</th>
+                        <th>Instructor</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>IF101</td>
+                        <td>Website Programming</td>
+                        <td>Thursday, 07:30 - 10:00</td>
+                        <td>D-206</td>
+                        <td>Muhammad Ali Akbar,M.Kom</td>
+                    </tr>
+                    <tr>
+                        <td>IF102</td>
+                        <td>Mobile Programming</td>
+                        <td>Thursday, 10:15 - 11:45</td>
+                        <td>E-403</td>
+                        <td>Muhammad Ali Akbar,M.Kom</td>
+                    </tr>
+                    
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</body>
+</html>
